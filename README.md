@@ -2,7 +2,7 @@
 simple skid password generator made in python
 
 ## Example
-[!image](https://cdn.discordapp.com/attachments/776417179155038218/966130461023809576/8yb.png)
+[! image](https://cdn.discordapp.com/attachments/776417179155038218/966130461023809576/8yb.png)
 
 
 # Installation
